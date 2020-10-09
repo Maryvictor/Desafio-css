@@ -1,0 +1,34 @@
+body
+{
+    margin: 0;
+    padding: 0;
+    font-family: verdana;
+}
+.center
+{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.ring
+{
+    width: 500px;
+    height: 500px;
+    border-radius: 50%;
+    box-shadow: 0 80px 0 #FFFF00;
+    background: #4B0082;
+    animation: animate 3s linear infinite;
+}
+
+@keyframes animate
+{
+    0%
+    {
+        transform: rotate(0deg);
+    }
+    100%
+    {
+        transform: rotate(360deg);
+    }
+}
