@@ -11,6 +11,9 @@
  ![desafio4](https://user-images.githubusercontent.com/54823595/95669242-d8f49c80-0b54-11eb-9c09-6e30da0fb3dc.gif)
  # Desafio 5 - Efeito pulsar
  ![dasafio5b](https://user-images.githubusercontent.com/54823595/103349825-b0f24680-4a7c-11eb-9625-00a495d6040d.gif)
+ # Desafio 6 - Efeito lightning text
+ ![desafio6](https://user-images.githubusercontent.com/54823595/103351779-092c4700-4a83-11eb-8507-3e4067af08ca.gif)
+
 
 
 
