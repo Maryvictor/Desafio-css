@@ -17,6 +17,9 @@
  ![desafio7](https://user-images.githubusercontent.com/54823595/103353005-71c8f300-4a86-11eb-861b-266ceaf8d9d0.gif)
  # Desafio 8 - Coração batendo
  ![dasafio8](https://user-images.githubusercontent.com/54823595/103354713-0fbebc80-4a8b-11eb-856c-15c82e0d6a75.gif)
+ # Desafio 9 - Pendulo de Newton
+ ![desafio9](https://user-images.githubusercontent.com/54823595/103356207-0e8f8e80-4a8f-11eb-80e7-076f18cda55c.gif)
+
 
 
 
