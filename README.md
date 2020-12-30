@@ -13,6 +13,8 @@
  ![dasafio5b](https://user-images.githubusercontent.com/54823595/103349825-b0f24680-4a7c-11eb-9625-00a495d6040d.gif)
  # Desafio 6 - Efeito lightning text
  ![desafio6](https://user-images.githubusercontent.com/54823595/103351779-092c4700-4a83-11eb-8507-3e4067af08ca.gif)
+ # Desafio 7 - Preloader animado
+ ![desafio7](https://user-images.githubusercontent.com/54823595/103353005-71c8f300-4a86-11eb-861b-266ceaf8d9d0.gif)
 
 
 
