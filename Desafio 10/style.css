@@ -1,0 +1,32 @@
+body
+{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #f4ffc8;
+}
+h1
+{
+    color: #2a3a00;
+    font-size: 100px;
+    font-family: 'Yellowtail', cursive;
+}
+span::before
+{
+    content: '';
+    animation: word-swith 2s infinite;
+}
+
+@keyframes word-swith 
+{
+    0% {content: '🍰'}
+
+    20%{content: '🌭';}
+
+    40%{content: '🍍';}
+
+    80% {content: '💃'}
+
+    100%{content: '🐕';}
+}
