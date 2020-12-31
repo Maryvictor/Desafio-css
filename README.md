@@ -19,6 +19,8 @@
  ![dasafio8](https://user-images.githubusercontent.com/54823595/103354713-0fbebc80-4a8b-11eb-856c-15c82e0d6a75.gif)
  # Desafio 9 - Pendulo de Newton
  ![desafio9](https://user-images.githubusercontent.com/54823595/103356207-0e8f8e80-4a8f-11eb-80e7-076f18cda55c.gif)
+ # Desafio 10 - Animação texto alternando
+ ![desafio10](https://user-images.githubusercontent.com/54823595/103389060-65c34c80-4aeb-11eb-881d-4aa185002520.gif)
 
 
 
