@@ -1,0 +1,35 @@
+body
+{
+    margin: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    font-family: sans-serif;
+    background-color: #f7f0cb;
+}
+h1
+{
+    margin: 0;
+    padding: 0;
+    font-family: 'Architects Daughter', cursive;
+    font-size: 120px;
+    color: #dd00dd;
+    text-transform: uppercase;
+    position: relative;
+}
+h1::before 
+{
+    content: "MariaVictor";
+    position: absolute;
+    top: 0%;
+    left: 0%;
+    color: #ffa0ff;
+    width: 0%;
+    overflow: hidden;
+    transition: all 0.9s;
+}
+h1:hover::before
+{
+    width: 100%;
+}
