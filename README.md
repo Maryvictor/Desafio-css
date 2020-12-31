@@ -21,6 +21,8 @@
  ![desafio9](https://user-images.githubusercontent.com/54823595/103356207-0e8f8e80-4a8f-11eb-80e7-076f18cda55c.gif)
  # Desafio 10 - Animação texto alternando
  ![desafio10](https://user-images.githubusercontent.com/54823595/103389060-65c34c80-4aeb-11eb-881d-4aa185002520.gif)
+ # Desafio 11 - Botão com efeito hover
+ ![desafio11](https://user-images.githubusercontent.com/54823595/103390702-aa071a80-4af4-11eb-87f6-7f11edde05fb.gif)
 
 
 
