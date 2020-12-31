@@ -25,6 +25,8 @@
  ![desafio11](https://user-images.githubusercontent.com/54823595/103390702-aa071a80-4af4-11eb-87f6-7f11edde05fb.gif)
  # Desafio 12 - Efeito de preenchimento ao passar o mouse
  ![desafio12](https://user-images.githubusercontent.com/54823595/103392261-c22e6800-4afb-11eb-9664-2e52910a3edb.gif)
+ # Desafio 13 - Semear com efeito
+ ![desafio13](https://user-images.githubusercontent.com/54823595/103393898-fc036c80-4b03-11eb-867f-236159a00f8a.gif)
 
 
 
